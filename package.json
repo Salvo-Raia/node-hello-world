@@ -1,0 +1,18 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "first exercise with Node.js",
+  "keywords": [
+    "server",
+    "boolean",
+    "152",
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "Salvo Raia - salvo.raia@outlook.it",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
