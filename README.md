@@ -1,6 +1,6 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 42/50 - Node Hello World
+# 🎓 Exercise 42/50: Node Hello World
 
 A first introduction to Node.js, exploring how to initialize a project, execute JavaScript files from the terminal and automate script execution with npm.
 
@@ -17,7 +17,7 @@ A first introduction to Node.js, exploring how to initialize a project, execute 
 
 Create your first Node.js application and learn how to run JavaScript files outside the browser.
 
-### Milestone 1 - Initialize the Project
+#### Milestone 1 - Initialize the Project
 
 Create a new Node.js project and initialize it using:
 
@@ -25,7 +25,7 @@ Create a new Node.js project and initialize it using:
 npm init
 ```
 
-### Milestone 2 - Create the Server
+#### Milestone 2 - Create the Server
 
 Create a `server.js` file that prints the following message in the terminal:
 
@@ -35,7 +35,7 @@ Hello World
 
 Run the file directly from the terminal using basic Node.js commands.
 
-### Milestone 3 - Configure the Start Script
+#### Milestone 3 - Configure the Start Script
 
 Add a `start` script to `package.json` to execute the application using:
 
@@ -43,7 +43,7 @@ Add a `start` script to `package.json` to execute the application using:
 npm run start
 ```
 
-### Milestone 4 - Configure Watch Mode
+#### Milestone 4 - Configure Watch Mode
 
 Add a `watch` script to `package.json` that automatically detects file changes and restarts the application.
 
@@ -61,7 +61,7 @@ Hello Boolean
 
 The terminal should display the updated message automatically, without manually stopping and restarting the application.
 
-### Bonus - Explore process.argv
+### ⭐ Bonus
 
 Experiment with `process.argv`, the array containing the command-line arguments passed to the Node.js process.
 
@@ -82,4 +82,4 @@ Explore how to access and use these arguments within your application.
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
