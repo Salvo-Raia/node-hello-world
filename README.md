@@ -8,7 +8,7 @@ A first introduction to Node.js, exploring how to initialize a project, execute 
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| node-hello-world | Node Hello World | Exercise | Node.js fundamentals & npm scripts | 42/50 |
+| node-hello-world | Node Hello World | Exercise | Node.js & npm scripts | 42/50 |
 
 ## Assignment
 
