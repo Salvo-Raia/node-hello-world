@@ -8,7 +8,7 @@ A first introduction to Node.js, exploring how to initialize a project, execute 
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| node-hello-world | Node Hello World | Exercise | Node.js & npm scripts | 42/50 |
+| node-hello-world | Node Hello World | Exercise | Node.js, npm scripts | 42/50 |
 
 ## Assignment
 
@@ -42,7 +42,7 @@ npm run start
 
 #### Milestone 4: Configure watch mode
 
-Add a `watch` script to `package.json` that automatically detects file changes and restarts the application.
+Add a `watch` script to `package.json` that automatically restarts the application whenever the source file changes.
 
 Run the script.
 
@@ -60,7 +60,7 @@ The terminal should display the updated message automatically, without manually 
 
 #### Bonus challenge
 
-Experiment with `process.argv`, the array containing the command-line arguments passed to the Node.js process and explore how to access and use these arguments within your application.
+Experiment with `process.argv`, the array containing the command-line arguments passed to the Node.js process. Explore how to access and use these arguments within your application.
 
 ## Technologies
 
