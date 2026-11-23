@@ -22,7 +22,7 @@ Create a new Node.js project and initialize it.
 npm init
 ```
 
-#### Milestone 2: Create the Server
+#### Milestone 2: Create the server
 
 Create a `server.js` file that prints the following message in the terminal:
 
