@@ -16,7 +16,7 @@ Create your first Node.js application and learn how to run JavaScript files outs
 
 #### Milestone 1: Initialize the project
 
-Create a new Node.js project and initialize it using:
+Create a new Node.js project and initialize it.
 
 ```bash
 npm init
@@ -34,7 +34,7 @@ Run the file directly from the terminal using basic Node.js commands.
 
 #### Milestone 3: Configure the start script
 
-Add a `start` script to `package.json` to execute the application using:
+Add a `start` script to `package.json` to execute the application.
 
 ```bash
 npm run start
@@ -44,7 +44,7 @@ npm run start
 
 Add a `watch` script to `package.json` that automatically detects file changes and restarts the application.
 
-Run the script using:
+Run the script.
 
 ```bash
 npm run watch
