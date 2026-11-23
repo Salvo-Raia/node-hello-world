@@ -14,7 +14,7 @@ A first introduction to Node.js, exploring how to initialize a project, execute 
 
 Create your first Node.js application and learn how to run JavaScript files outside the browser.
 
-#### Milestone 1: Initialize the Project
+#### Milestone 1: Initialize the project
 
 Create a new Node.js project and initialize it using:
 
@@ -32,7 +32,7 @@ Hello World
 
 Run the file directly from the terminal using basic Node.js commands.
 
-#### Milestone 3: Configure the Start Script
+#### Milestone 3: Configure the start script
 
 Add a `start` script to `package.json` to execute the application using:
 
@@ -40,7 +40,7 @@ Add a `start` script to `package.json` to execute the application using:
 npm run start
 ```
 
-#### Milestone 4: Configure Watch Mode
+#### Milestone 4: Configure watch mode
 
 Add a `watch` script to `package.json` that automatically detects file changes and restarts the application.
 
@@ -60,9 +60,7 @@ The terminal should display the updated message automatically, without manually 
 
 #### Bonus challenge
 
-Experiment with `process.argv`, the array containing the command-line arguments passed to the Node.js process.
-
-Explore how to access and use these arguments within your application.
+Experiment with `process.argv`, the array containing the command-line arguments passed to the Node.js process and explore how to access and use these arguments within your application.
 
 ## Technologies
 
